@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nisarg Saple</h1>
 <h3 align="center">An ambitious MERN Stack & PHP Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nisarg-falcon" alt="nisarg-falcon" /></a> </p>
-
 - 🔭 I’m currently working on [Harsha Info Services](https://www.harshainfoservices.com)
 
 - 🌱 I’m currently learning **React Native and iOS Development**
