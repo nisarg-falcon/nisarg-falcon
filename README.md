@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React Native and iOS Development**
 
-- 💬 Ask me about **React, Laravel, NodeJS and Php**
+- 💬 Ask me about **React, Laravel, NodeJS and PHP**
 
 - 📫 How to reach me **nisarg.sachin.saple@gmail.com**
 
